@@ -1,9 +1,10 @@
 # MASPLIT
 
-<div style="text-align: center; font-style: italic;">
-    <img src="https://www.alexisphilip.fr/static/img/articles/2020-02-28-double-view.jpg">
+![The MAPSLIT keyboard](https://www.alexisphilip.fr/static/img/articles/2020-02-28-double-view.jpg)
+
+<p style="text-align: center; font-style: italic;">
     The MASPLIT keyboard.
-</div><br>
+</p>
 
 [*MASPLIT*]((https://www.alexisphilip.fr/masplit) ) (means *magnet* and *split*) is a handmade, 3D printed, ergonomic, ortholinear, split, programmable keyboard. Read  the whole [build log on my website](https://www.alexisphilip.fr/masplit).
 
