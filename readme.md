@@ -1,6 +1,6 @@
 # MASPLIT
 
-![The MAPSLIT keyboard](https://www.alexisphilip.fr/static/img/articles/2020-02-28-double-view.jpg)
+![The MAPSLIT keyboard](/masplit.jpg)
 
 <p style="text-align: center; font-style: italic;">
     The MASPLIT keyboard.
@@ -12,7 +12,11 @@ In this repository are the 3D models in `STL` format, as well as my QMK keyboard
 
 ## 3D files
 
-All of the 3D `STL` files necessary to 3D print the keyboard.
+All of the 3D `STL` files necessary to 3D print the **right keyboard side**.
+
+To print the **left keyboard side**, just **mirror all the parts** in your 3D printing software before printing them.
+
+> I suggest using [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) as 3D printing sofware.
 
 ## QMK code
 
